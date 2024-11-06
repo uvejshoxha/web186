@@ -1,0 +1,53 @@
+body{
+    background-color: cornflowerblue;
+}
+.search{
+text-align: left;
+font-size: 18px;
+background-color: azure;
+height: 25px;
+width: 400px;
+padding-top: 4px;
+border-radius: 10px;
+margin-left: 650px;
+padding-left: 20px;
+
+
+}
+.logo1{
+    height: 120px;
+    margin-left: 20px;
+    border-radius: 100px;
+    margin-top: -40px;
+    width: 120px;
+}
+.kerkimi{
+    height: 20px;
+    margin-left: 250px;
+    
+}
+.bc{
+    font-size: 0px;
+    margin-left: 100px;
+}
+.zemra{
+    height: 20px;
+    margin-left: 1700px;
+    margin-top: 10px;
+    padding-top:
+}
+.charset{
+    height: 20px;
+    width: 20px;
+    margin-left: 1740px;
+    margin-top: 20px;
+}
+.divi2{
+    background-color: aqua;
+    height: 600px;
+    width: 400px;
+    margin-left: 80px;
+}
+divi3{
+    margin-left: 1000px;
+}

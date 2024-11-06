@@ -1,0 +1,10 @@
+body{
+    background-color: darkcyan;
+}
+div{
+    background-color: #f7f7f7;
+    width: fit-content;
+}
+div.divnr2{
+    background-color: green;
+}

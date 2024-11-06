@@ -1,0 +1,11 @@
+.form{
+    background-color: bisque;
+    color: black;
+    width: 300px;
+}
+.submit{
+    background-color: green;
+    width: 200px;
+    height: 30px;
+    
+}

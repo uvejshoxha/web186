@@ -1,0 +1,35 @@
+.stockx{
+    width: 130px;
+    margin-left: 100px;
+    position: fixed;
+}
+
+.menu{
+    float: right;
+    margin-left: 1600px;
+    position: fixed;
+
+
+}
+.news{
+  float: inline-end;
+  
+}
+.about{
+    float: inline-end;
+    margin-right: 15px;
+
+}
+.help{
+    float: inline-end;
+    margin-right: 15px;
+    
+}
+.Sell{
+    float: inline-end;
+    margin-right: 15px;
+
+}
+.nav{
+    position: fixed;
+}

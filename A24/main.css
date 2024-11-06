@@ -1,0 +1,23 @@
+.container{
+    background-color: aqua;
+    width: 700px;
+    height: 700px;
+}
+.left{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+.right{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    float:left;
+}
+.middle{
+    background-color:green;
+    width: 100px;
+    height: 100px;
+clear: both;
+}

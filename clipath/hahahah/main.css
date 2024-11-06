@@ -1,0 +1,32 @@
+.main{
+    background-image: url("https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg?cs=srgb&dl=pexels-souvenirpixels-417074.jpg&fm=jpg") ;
+    height: 400vh;
+    width: 100vw;
+    background-color: olivedrab;
+    background-blend-mode: overlay;
+    letter-spacing: 5px;
+    clip-path: polygon(5% 5%, 95% 95% , 95% 5% 5%);
+    bor;
+}
+h1{
+    font-size: 110px;
+    align-items: center;
+    padding-left: 700px;
+    padding-top: 400px;
+    color: white;
+}
+h2{
+    font-size: 80px;
+    padding-left: 600px;
+    color: white;
+}
+.bb{
+    width: 300px;
+    height: 60px;
+    border-radius: 40px;
+    margin-left: 1000px;
+   
+}
+.bb:hover{
+    background-color: red;
+}

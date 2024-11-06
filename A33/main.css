@@ -1,0 +1,31 @@
+
+.red{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+.blue{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+.yellow{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+}
+.green{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
+.para{
+display: flex;
+}
+.dyta{
+    display: flex;
+}
+.krs{
+    margin-left: 700px;
+    margin-top: 600px;
+}

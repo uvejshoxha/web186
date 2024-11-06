@@ -1,0 +1,18 @@
+table,tr,td,th {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+
+.red{
+    background-color: red;
+}
+.orange{
+    background-color: orange;
+}
+.green{
+    background-color: green;
+}
+.yellow{
+    background-color: yellow;
+}

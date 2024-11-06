@@ -1,0 +1,19 @@
+.hard{
+    width: 400px;
+    height: 400px;
+    background-color: lightcoral;
+    /* clip-path: circle(100px at 100px 100px); */
+    /* clip-path: inset(20px round 100px ); */
+    /* clip-path: circle(80px at 50% 50%); */
+    /* clip-path: ellipse(100px 80px at center ); */
+    clip-path: polygon( 5% 5%, 95% 5%, 95% 95% 5%);
+}
+.main{
+    width: 100vw;
+    height: 500px;
+border-color: cadetblue;
+font-size: 20px;
+}
+h1{
+    font-size: 3em;
+}

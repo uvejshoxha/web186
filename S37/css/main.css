@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #00b894;
+}
+
+.road {
+  margin: 0 auto;
+  height: 100vh;
+  width: 600px;
+  background-color: #636e72;
+  position: relative;
+  overflow: hidden;
+}
+
+.bars {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.bars div {
+  height: 50px;
+  width: 15px;
+  background-color: white;
+  margin-bottom: 50px;
+}
+
+.car {
+  position: absolute;
+  width: 100px;
+  bottom: 0;
+  left: 50%;
+  transform: translate(-50%);
+  animation: drive1 2s  infinite;
+}
+
+
+/* @keyframes drive{
+  0% {top: 0px;}
+  25% {top: 200px;}
+  50% {top: 100px;}
+  75% {top: 200px;}
+  100% {top: -500px;}
+}
+   */
+
+@keyframes drive1{
+  from{
+    bottom: 0px;
+  }
+  to{
+    bottom: 100%;
+  }
+}

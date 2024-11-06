@@ -1,0 +1,70 @@
+
+
+:root{
+ --ngjyraH1 : red ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .header{
+    width: 100vw;
+    height: 200px;
+    background-color: red;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+.main{
+    height: calc(100vh - 200px);
+    background-color: blueviolet;
+} */
+ /* .linear{
+    width: 200px;
+    height: 200px;
+    background-image: linear-gradient(to bottom left
+     , blue , red , green);
+ } */
+
+  /* .radial{
+    width: 400px;
+    height: 400px;
+        background-image: radial-gradient(red, green, blue);
+      } */
+.main{
+    width: 500px;
+    height: 500px;
+    background: linear-gradient(
+        90deg,
+        rgba(2 , 3 , 61 , 0.8) 0%,
+        rgba(0, 168 , 255, 0.8)100%
+    ),
+  url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuGNthVm-J8Zlj9eAJtdk5medV0ZKrl998Xg&s");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
+      h1{
+    color: var(--ngjyraH1);
+      }
+     
+    

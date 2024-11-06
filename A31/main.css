@@ -1,0 +1,27 @@
+.main{
+   background-color: darkolivegreen;
+    display: flex;
+    
+  flex-direction: row;
+  
+  
+  
+}
+
+.blue{
+    width: 100%;
+    background-color: yellowgreen;
+}
+img{
+    width: 400px;
+    height: auto;
+}
+@media screen and (max-width:767px){
+
+.main{
+    flex-direction: column;
+}
+.content{
+    width: 100%;
+}
+}

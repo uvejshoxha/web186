@@ -1,0 +1,22 @@
+.kry{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    background-color: orange;
+    gap: 100px;
+    justify-content: center;
+    align-items: center;
+}
+.c1, .c2, .c3, .c4{
+    background-color: lightskyblue;
+    width: 20%;
+    height: 500px;
+    border-radius: 35px;
+    transform: scale(1);
+    text-align: center;
+    
+    
+}
+.c1:hover, .c2:hover, .c3:hover, .c4:hover{
+    transform: scale(1.25);
+}

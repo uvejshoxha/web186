@@ -1,0 +1,46 @@
+.main{
+    background-image: url("https://images.pexels.com/photos/414612/pexels-photo-414612.jpeg?cs=srgb&dl=pexels-souvenirpixels-414612.jpg&fm=jpg");
+    width: 500px;
+    height: 700px;
+    border-radius: 10px;
+    align-items: center;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    color: white;
+    opacity: 0.6;
+    padding-left: 70px;
+    
+}
+a:link{
+    color: white !important;
+}
+.main:hover{
+    opacity: 1;
+    transition: .3s ease-in-out;
+    position: relative;
+    
+
+}
+.main .pp{
+    opacity: 0;
+}
+.main:hover .pp{
+    opacity: 1;
+    top: -100px;
+
+}
+.hh:hover{
+    top: -100px;
+  
+}
+.main:hover .hh{
+    position: relative;
+    top:-100px
+}
+.main:hover .pp{
+    position: relative;
+    top:-100px
+}

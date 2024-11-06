@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;}
+/* Thirri te gjite paragrafet qe kane emrin paragrafi1,por jo elementet tjera ne kete emer */
+    p.pg1{
+        color: red;
+    }
+
+    /* Thirri te gjithe paragrafat dhe elementet qe kane te njejtin emmer */
+    p, .paragrafi{
+        color: blue;
+    }

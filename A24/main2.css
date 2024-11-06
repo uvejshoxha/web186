@@ -1,0 +1,67 @@
+.kryesori{
+    overflow: hidden;
+    width: 200px;
+}
+.A{
+    
+
+
+    
+    
+}
+.B{
+    border: 3px solid red;
+    color: red;
+    width: 30px;
+    float: left;
+}
+.C{
+    border: 3px solid green;
+    color: green;
+    width: 30px;
+    float: left;
+}
+.D{
+    border: 3px solid blue;
+    color: blue;
+    width: 30px;
+    float: left;
+}
+.E{
+    border: 3px solid green;
+    color: green;
+    width: 30px;
+    float: left;
+}
+.F{
+    border: 3px solid red;
+    color: red;
+    width: 30px;
+    float: left;
+    
+}
+.bc{
+margin-left: 30px;
+margin-top: 130px;
+width: 80px;
+height: 0px;
+}
+
+.dyshi{
+    float: left;
+    margin-top: -43px;
+    width: 300px;
+    height: 300px;
+    margin-left: 10px;
+
+}
+
+body{
+    width: 300px;
+    height: 300px;
+}
+.aaa{
+    margin-top: -15px;
+    margin-left: 47px;
+    
+}

@@ -1,0 +1,20 @@
+.button{
+    background-color: blue;
+    color: white;
+}
+/* Linku nuk eshte i vizituar */
+a:link{
+color: pink;
+}
+/* linku eshte i vizituar */
+a:visited{
+    color: green;
+}
+/* E vendosim kursorin e mausit mbi link */
+a:hover{
+    color: red;
+}
+/* kur e mbajme te shtypur linkun */
+a:active{
+    color: greenyellow;
+}

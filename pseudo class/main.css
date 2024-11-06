@@ -1,0 +1,57 @@
+a:link{
+    color: red;
+}
+a:visited{
+    color: chartreuse;
+}
+a:hover{
+    color: purple;
+}
+a:active{
+    color: navajowhite;
+}
+p::first-line{
+    background-color: red;
+    color: aqua;
+    
+}
+p::first-letter{
+    background-color: pink;
+}
+p::first-letter{
+    color: black;
+}
+.desription::before{
+    content: "⭐";
+    background-color: greenyellow;
+    color: green;
+}
+.desription::after{
+    content: "⭐";
+    background-color: greenyellow;
+    color: green;
+}
+.sot::before{
+    content: "";
+    width: 10px;
+    height: 10px;
+    background-color: yellow;
+    display: inline-block;
+}
+.sot::after{
+    content: "";
+    width: 10px;
+    height: 10px;
+    background-color: blue;
+    display: inline-block;
+}
+.zemra{
+    width: 400px;
+    height: auto;
+    transition: 2s ease-in-out;
+}
+.zemra:hover{
+    width: 500px;
+    height: auto;
+    transform: scale(2);
+}

@@ -1,0 +1,17 @@
+     .kry{
+       
+     }                                         
+.c1{
+    border-radius: 20px;
+}
+
+.c1{
+    width: 300px;
+    height: 600px;
+    background-image: url("https://img.freepik.com/premium-photo/wide-angle-shot-single-tree-growing-clouded-sky-sunset-surrounded-by-grass_181624-22807.jpg?semt=ais_hybrid");
+}
+.c2{
+    background-color: green;
+    position: absolute;
+    bottom: 0px;
+}
